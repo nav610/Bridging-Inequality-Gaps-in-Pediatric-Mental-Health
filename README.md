@@ -33,12 +33,6 @@ This dataset contains **no PHI**. It was de-identified following
 
 No attempt should be made to re-identify any individual in this dataset.
 
-## Ethics
-
-The original study was reviewed and approved by [IRB / ethics committee name],
-protocol number [#]. [Note consent/waiver status if applicable.] Sharing of this
-de-identified dataset is consistent with that approval.
-
 ## How to Cite
 
 If you use this dataset, please cite both the dataset and the associated publication:
