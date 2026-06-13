@@ -42,9 +42,6 @@ If you use this dataset, please cite both the dataset and the associated publica
 
 This dataset is released under [**CC BY 4.0**].
 You are free to share and adapt the material with appropriate attribution.
-See `LICENSE` for full terms.
-
-> Add a `LICENSE` file. Without an explicit license, others have no legal right to reuse the data.
 
 ## Contact
 
