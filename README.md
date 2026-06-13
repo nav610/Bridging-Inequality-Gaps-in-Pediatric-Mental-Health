@@ -26,8 +26,7 @@ equitable pediatric mental health care.
 - 
 ## Privacy and De-identification
 
-This dataset contains **no PHI**. It was de-identified following
-[**HIPAA Safe Harbor** / **Expert Determination** — state which]. Specifically:
+This dataset contains **no PHI**. It was de-identified following HIPPA guidelines. Specifically:
 
 - Direct identifiers (names, dates of birth, addresses, record numbers, etc.) were removed.
 
