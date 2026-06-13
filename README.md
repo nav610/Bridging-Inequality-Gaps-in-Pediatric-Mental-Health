@@ -14,7 +14,6 @@ equitable pediatric mental health care.
 | `data.csv` | The primary dataset (one row per [observation unit — e.g., patient encounter]). |
 | `README.md` | This file. |
 
-> Replace the filenames and the row-level description above with your actual files.
 
 ## Dataset Description
 
