@@ -1,0 +1,100 @@
+Insurance,Age,Primary non-English,Primary non English or Spanish,Primary Dx,"High Acuity (ED,aggression, foster care)",Evidence Guidance given?,Evidence Materials or resources provided?,Evidence Referral list given,Rx given?,"Lost to care, had care, or no longer needed/wanted care",Accessed any outpatient care w/in 3 mos ,Rec'd care through other integrated care (e.g. school),Care at Lurie outside primary care or coordination
+medicaid,5,,,"ADHD, concern for autism",,y,N,Y,y,,N,,N
+medicaid,17,,,Anxiety/Depression,,,,Y,y,,Y,Y,Y
+Medicaid,8,,,behavior,,,,Y,,,y,N,N
+Medicaid,18,,,anxiety/depression,,,,Y,,,y,Y,N
+private,9,,,concern for behavior,,,,Y,y,Y,N,,N
+private,8,,,concern for behavior,,y,,Y,,,y,N,N
+Medicaid,4,,,concern for behavior,,y,,Y,,,N,,N
+Medicaid,11,y,,anxiety,y,y,,Y,y,,Y,,Y
+Medicaid,15,,,anxiety/depression,,,,Y,y,,N,,N
+Medicaid,15,,y,autism,y,y,,Y,y,,N,,N
+Medicaid,19,,y,autism,y,y,,Y,y,,N,,N
+Private,5,,,behavior,,n,,Y,,Y,N,,N
+Medicaid,18,y,,anxiety/depression,y,y,,Y,,,y,Y,N
+Medicaid,8,,,anxiety/eating,,y,,Y,,,Y,N,Y
+medicaid,14,Y,,anxiety,,y,y,Y,,,N,,N
+medicaid,15,,,anxiety,,y,,Y,y,,N,,N
+medicaid,11,y,,"anxiety, stressor ",,y,y,Y,y,,n,,N
+medicaid,8,y,,anxiety,,y,y,Y,,,n,,N
+medicaid,18,y,,Anxiety/Depression,,y,x,Y,y,,N,,N
+private,10,,,trauma,,y,,Y,,,Y,N,N
+medicaid,12,,,anxiety,,,,Y,,,n,,N
+medicaid,15,,,behavior,y,y,,Y,y,,n,,N
+medicaid,15,y,,"behavior, anxiety",y,y,,Y,,,y,N,Y
+medicaid,8,,,ADHD,,Y,,Y,y,,N,,N
+medicaid,7,y,,bullying (related somatic),,y,y,Y,,,N,,N
+medicaid,8,,,behavior,Y,y,n,Y,y,,n,,N
+medicaid,9,,,"behavior, autism, skin picking",,y,n,Y,y,,y,N,N
+medicaid,5,,,"behavior, aggression",y,y,y,Y,n,,y,N,N
+medicaid,8,y,,"anxiety, autism, trauma",,y,n,Y,y,,y,N,N
+medicaid,9,,,behavior,,y,n,Y,,,n,,N
+medicaid,13,,,"aggression, anxiety, trauma",y,,,Y,,,y,N,N
+medicaid,17,,,adjustment,,,,Y,,,y,N,Y
+medicaid,14,y,,"mood, trauma",,,,Y,y,,N,,N
+medicaid,16,,,"anxiety, depression",,y,,Y,y,,y,,Y
+medicaid,16,,,"mood, anxiety",,y,n,Y,,,y,,Y
+medicaid,5,,,behavior,,y,,Y,,,N,,N
+medicaid,13,,,"mood, anxiety, behavior",,y,n,Y,y,,y,,Y
+medicaid,10,,,"autism, behavior, ADHD",,y,y,Y,y,,N,,N
+medicaid,15,,,adjustment ,,y,y,Y,,,N,,N
+medicaid,7,,,behavior,,y,y,Y,,,N,,n
+private,7,,,"ADHD, autism",,y,N,Y,,,N,,n
+medicaid,4,,,behavior,,y,,Y,,,N,,n
+medicaid,17,,,"anxiety, depression",,N,,Y,,,y,,Y
+medicaid,5,,,"anxiety, ADHD",,N,,Y,,,y,,Y
+medicaid,11,,,ADHD,,y,,Y,y,,N,,N
+medicaid,11,y,,NSSI,,y,,Y,y,,N,,N
+medicaid,9,,,anxiety,,y,,Y,,,N,,N
+medicaid,4,,,behavior,,y,,Y,,,N,,N
+medicaid,7,,,behavior/ADHD,,y,y,Y,,,N,,Y
+medicaid,7,,,behavior/ADHD,y,y,,Y,y,,N,,Y
+private,13,,,ADHD/anxiety,,y,,Y,y,,y,,Y
+private,8,,,autism,,y,y,Y,,,y,,N
+medicaid,19,,,anxiety,,y,,Y,,,y,,N
+Medicaid,19,,,stressor,,,,Y,,,N,,N
+Medicaid,4,,,behavior,,y,y,Y,y,,Y,,Y
+Medicaid,18,,,anxiety,,y,,Y,,,N,,N
+Medicaid,5,,,"ADHD, binge eating",,y,,Y,,,N,,N
+Medicaid,12,,,"depression, anxiety",y,,,Y,y,,y,,Y
+Medicaid,17,,,"depression, anxiety",,,,Y,,,N,,N
+Medicaid,18,,,"depression, anxiety",,y,,Y,,,N,,Y
+Medicaid,15,Y,,Adjustment disorder ,,x,,Y,,,y,,Y
+Medicaid,8,y,y,ADHD,y,y,,Y,y,,N,,N
+Medicaid,4,y,,trichotilomania,,N,N,Y,,,N,,N
+Medicaid,15,y,,"depression, anxiety, substance use",,Y,N,Y,,,Y,,Y
+Medicaid,14,,,"depression, anxiety",,N,y,Y,Y,,N,,N
+Medicaid,5,,,"ADHD, behavior",,y,,Y,,,N,,N
+Medicaid,15,,,suicidal,y,,,Y,,,N,,N
+Medicaid,16,,,anxiety,,y,,Y,,,Y,,Y
+Medicaid,5,,,"behavior, ADHD",,,,Y,,,N,,N
+private,11,,,anxiety,,y,,Y,,,Y,,N
+Private,16,,,"anxiety, PW",,,,Y,,,Y,,Y
+Medicaid,16,Y,Y,"anxiety, depression",,,,Y,,,Y,,Y
+Medicaid,17,,,"anxiety, trauma response",,y,,Y,,,Y,,Y
+medicaid,8,,,"autism, behavior, sleep",,,,Y,,,N,,N
+private,6,,,ADHD,,N,,Y,offered,Y,N,,N
+medicaid,4,,,behavior concern,,y,,Y,,,N,,N
+medicaid,15,y,,"anxiety, sleep difficulties",,y,y,Y,,,N,,N
+medicaid,6,,,"autism, ADHD",,y,,Y,,,n,,N
+medicaid,8,y,,anxiety,,y,,Y,,,n,,N
+medicaid,11,,,"anxiety, ADHD",y,y,,Y,y,,n,,N
+medicaid,4,,,anxiety,,y,,Y,,,n,,N
+private,15,,,anxiety,,y,,Y,y,,n,,N
+medicaid,11,,,adjustment,,y,,Y,,,y,,Y
+medicaid,12,,,"NSSI, ADHD",,y,,Y,,,y,,N
+private,3,,,trichotilomania,,y,,Y,,,Y,,N
+medicaid,8,,,behavior,,y,,Y,,,y,,Y
+private,11,,,"ADHD, anxiety",,y,,Y,y,,Y,,N
+medicaid,13,,,"ADHD, trauma, behavior",Y,y,,Y,y,,n,,N
+private,8,,,ADHD,,y,,Y,y,,y,,N
+medicaid,17,y,,anxiety,,y,,Y,,,N,,Y
+medicaid,8,,,anxiety,,y,y,Y,,,N,,N
+medicaid,17,,,"SI, mood",,y,,Y,,,N,,N
+medicaid,7,,,behavior,,y,,Y,,,Y,,Y
+medicaid,20,,,depression,,y,,Y,,,N,,N
+medicaid,11,,,"behavior, mood",,y,,Y,,,N,,N
+medicaid,7,y,y,"behavior, trauma, developmental delay",,y,,Y,,,n,,N
+,,,,,,,,,,,,,
+Results,,,,,,,,,,,,,
+,,20,5,,15,72,14,96,32,3,38,3,26
