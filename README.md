@@ -38,7 +38,7 @@ If you use this dataset, please cite both the dataset and the associated publica
 
 **Dataset:**
 
-> Yacker, S. (2026). *Bridging Inequality Gaps in Pediatric Mental Health Through Primary Care* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20694998
+> Yacker, S. (2026). *Bridging Inequality Gaps in Pediatric Mental Health Through Primary Care*. Zenodo. https://doi.org/10.5281/zenodo.20694998
 
 <!-- TODO: Add publication citation once the paper is published -->
 
